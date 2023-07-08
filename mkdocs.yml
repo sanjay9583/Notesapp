@@ -45,5 +45,8 @@ extra:
       link: https://www.youtube.com/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/
+  analytics:
+    provider: google
+    property: G-M16XXN4ERH
 
 copyright: Copyright &copy; 2023 Sanjay Bandaru
