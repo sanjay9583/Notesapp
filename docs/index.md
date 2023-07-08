@@ -1,5 +1,3 @@
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
 # Principles of Management
 
 Welcome to the Principles of Management course! This course provides a comprehensive introduction to the fundamental principles, theories, and practices of management in organizations.
