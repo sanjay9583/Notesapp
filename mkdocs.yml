@@ -1,4 +1,4 @@
-site_name: Sanjay's Notes
+site_name: CampusSync
 theme:
   name: material
 
@@ -8,18 +8,18 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: white
+      accent: white
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
-      accent: teal
+      primary: black
+      accent: black
       toggle:
         icon: material/lightbulb-outline
-        name: Switch to light mode
+        name: Switch to light mode    
 
 markdown_extensions:
   - meta
