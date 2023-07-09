@@ -1,4 +1,10 @@
 site_name: College Hive
+site_author: Sanjay Bandaru
+
+site_description: >-
+  College Hive is a platform for students to share their knowledge and experiences with other students. 
+  It is a platform for students to learn from each other and grow together.
+
 theme:
   name: material
 
@@ -10,7 +16,7 @@ theme:
     - content.code.copy
     # - content.tabs.link
     - content.tooltips
-    # - header.autohide
+    - header.autohide
     # - navigation.expand
     - navigation.footer
     - navigation.indexes
