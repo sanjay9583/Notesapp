@@ -18,11 +18,11 @@ This website serves as a platform for sharing and accessing college notes on var
 
 2. **Viewing Notes:** Click on a topic to view its content. The notes will be displayed in Markdown format, making it easy to read and understand. Feel free to explore related topics using the provided links within the notes.
 
-3. **Contributing Notes:** If you wish to contribute your notes, follow the guidelines provided in the [Contributing](contributing.md) section. Make sure to adhere to the rules and guidelines mentioned above.
+3. **Contributing Notes:** If you wish to contribute your notes, follow the guidelines provided in the [Contributing](Other/contributing.md) section. Make sure to adhere to the rules and guidelines mentioned above.
 
 4. **Searching for Notes:** If you're looking for specific content, you can use the search bar located at the top of the page. Simply enter relevant keywords, and the search feature will provide you with relevant results.
 
-5. **Feedback and Support:** If you have any questions, feedback, or need assistance, don't hesitate to reach out to our support team. You can find contact information in the [Contact](contact.md) section.
+5. **Feedback and Support:** If you have any questions, feedback, or need assistance, don't hesitate to reach out to our support team. You can find contact information in the [Contact](Other/contact.md) section.
 
 We hope you find this platform useful for your academic journey. Happy learning and sharing!
 
