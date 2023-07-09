@@ -1,0 +1,19 @@
+.md-typeset h1 {
+    font-size: 25px;
+    font-weight: bold;
+    font-optical-sizing: 100px;
+}
+.md-typeset h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+.md-typeset p {
+    font-size: 16px;
+}
+.md-typeset li {
+    font-size: 16px;
+}
+.md-grid {
+    max-width: 85%; /* or 100%, if you want to stretch to full-width */
+  }
+  

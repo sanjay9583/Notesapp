@@ -35,8 +35,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: white
+      accent: white
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
@@ -73,6 +73,8 @@ extra:
       link: https://www.linkedin.com/in/sanjaybandaru/
   generator: false    
 
+extra_css:
+  - stylesheets/extra.css
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
