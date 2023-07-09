@@ -48,5 +48,10 @@ extra:
   analytics:
     provider: google
     property: G-M16XXN4ERH
+  generator: false
+
+plugins:
+  - offline:
+      enabled: !ENV [OFFLINE, true]
 
 copyright: Copyright &copy; 2023 Sanjay Bandaru
