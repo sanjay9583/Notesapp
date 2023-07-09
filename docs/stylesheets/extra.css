@@ -13,7 +13,10 @@
 .md-typeset li {
     font-size: 16px;
 }
-.md-grid {
-    max-width: 95%; /* or 100%, if you want to stretch to full-width */
-  }
-  
+
+/* Styles for web applications */
+@media screen and (min-width: 768px) {
+    .md-grid {
+        max-width: 95%; /* or 100%, if you want to stretch to full-width */
+      }
+  }  
