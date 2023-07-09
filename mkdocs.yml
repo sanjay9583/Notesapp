@@ -40,11 +40,11 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/
+      link: https://www.linkedin.com/in/sanjaybandaru/
+    # - icon: fontawesome/brands/youtube
+    #   link: https://www.youtube.com/
+    # - icon: fontawesome/brands/instagram
+    #   link: https://www.instagram.com/
   analytics:
     provider: google
     property: G-M16XXN4ERH
