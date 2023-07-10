@@ -69,8 +69,8 @@ extra:
     provider: google
     property: G-M16XXN4ERH
   social:
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/sanjaybandaru/
+    - icon: fontawesome/brands/linkedin  
+      link: https://www.linkedin.com/company/college-hives/
   generator: false    
 
 extra_css:
