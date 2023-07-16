@@ -20,3 +20,28 @@
         max-width: 95%; /* or 100%, if you want to stretch to full-width */
       }
   }  
+
+  /* make table little compact and small of each row */
+
+  .md-typeset_table table {
+    line-height: 0.5px;
+  }
+
+  /* add some styling to the table  and make it dark mode friendly feature*/
+
+  .md-typeset table {
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    width: 100%;
+  }
+
+  .md-typeset th, td {
+    text-align: left;
+    padding: 16px;
+  }
+
+  .md-typeset th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  /* end of table styling */

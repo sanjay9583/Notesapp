@@ -48,9 +48,30 @@ theme:
         icon: material/lightbulb-outline
         name: Switch to light mode
 
+
+# nav:
+#   - Home: index.md
+#   - Course Subjects: Table of Content.md
+#   - French:
+#       - Subpage1: French/numbers.md
+#       - Subpage2: directory1/subpage2.md
+#   - Directory2:
+#       - Subpage3: directory2/subpage3.md
+#       - Subpage4: directory2/subpage4.md
+
+# nav:
+#     - Home: 'index.md'
+#     - 'User Guide':
+#         - 'Writing your docs': 'writing-your-docs.md'
+#         - 'Styling your docs': 'styling-your-docs.md'
+#     - About:
+#         - 'License': 'license.md'
+#         - 'Release Notes': 'release-notes.md'
+
 markdown_extensions:
   - meta
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
