@@ -7,7 +7,7 @@
 
 ## Here are the French numbers from 0 to 100:
 
-|<div style="width:100px">Number</div>|<div style="width:200px">French</div>|<div style="width:150px">Pronunciation</div>|
+|<div style="width:50px">Number</div>|<div style="width:150px">French</div>|<div style="width:150px">Pronunciation</div>|
 |-|-|-|  
 |<div style="height:5px">0</div>|<div style="height:5px">zéro</div>|<div style="height:5px">zeh-row</div>|
 |<div style="height:5px">1</div>|<div style="height:5px">un</div>|<div style="height:5px">uhn</div>|
