@@ -25,7 +25,7 @@ Hi 👋! I'm Sanjay Bandaru , I am a Highly motivated finance student pursuing B
 
 # Education
 - Bachelor of Business Administration (B.B.A.), Finance and International Business , Christ University, Bangalore, India   
-- Expected Graduation: May 2022
+- Expected Graduation: May 2025
 
 # Certifications
 - Fundamentals of Financial Services Level - 1
