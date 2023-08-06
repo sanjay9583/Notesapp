@@ -8,7 +8,7 @@
 # Sanjay Bandaru {style=text-align:center}
 
 <!-- keep linkedin icon  and on the click it should redirect to my page -->
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sanjay-bandaru){:target="_blank" style="display: block; margin-left: auto; margin-right: auto; width: 20%;"}
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn ](https://www.linkedin.com/in/sanjay-bandaru){:target="_blank" style="display: block; margin-left: auto; margin-right: auto; width: 20%;"}
 
 
 
