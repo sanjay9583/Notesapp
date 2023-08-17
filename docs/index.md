@@ -70,7 +70,7 @@ At College Hive, we are a team of dedicated students from Your University who un
 
 ## Be a Contributor!
 
-College Hive thrives on collaboration. If you have well-prepared notes that you'd like to share with your fellow students, we welcome your contributions. Together, we can build a comprehensive resource for all students of Our University.[Join Us](other/join_us.md)
+College Hive thrives on collaboration. If you have well-prepared notes that you'd like to share with your fellow students, we welcome your contributions. Together, we can build a comprehensive resource for all students of Our University.[Join Us](Other/join_us.md)
 
 ## Our Contributors
 
@@ -85,4 +85,4 @@ At College Hive, our mission is to make your exam preparation journey smooth and
 
 Happy learning!
 
-[Get Started Now](link-to-signup-page)
+

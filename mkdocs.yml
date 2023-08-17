@@ -102,6 +102,8 @@ extra:
 extra_css:
   - stylesheets/extra.css
 plugins:
+  - table-reader ## IMPORTANT: This plugin must be installed for it to work, pip install mkdocs-table-reader-plugin
+  - glightbox
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 

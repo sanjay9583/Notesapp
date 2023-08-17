@@ -2,7 +2,7 @@
 
 # Join Us at College Hive
 
-[Join Us](https://forms.gle/YycyF15n2Mn2g5YQ7)
+[Join Us](https://forms.gle/YycyF15n2Mn2g5YQ7){ .md-button .md-button--primary }
 
 Are you passionate about sharing knowledge and helping your fellow students succeed in their studies? Join the College Hive community and become a valued contributor to our notes website!
 
@@ -46,7 +46,7 @@ Are you passionate about sharing knowledge and helping your fellow students succ
 
 College Hive's success is built on the collaboration of students like you. Together, we can create a knowledge hub that benefits the entire community. Join us now and be part of this exciting journey!
 
-[Sign Up to Become a Contributor](https://forms.gle/YycyF15n2Mn2g5YQ7)
+[Sign Up to Become a Contributor](https://forms.gle/YycyF15n2Mn2g5YQ7) { .md-button .md-button--primary }
 
 Have questions or need assistance? Contact us at support@collegehive.com.
 
