@@ -19,6 +19,11 @@ jobs:
           key: ${{ github.ref }}
           path: .cache
       - run: pip install mkdocs-material
-      - run: pip install mkdocs-table-reader-plugin
+      # - run: pip install mkdocs-table-reader-plugin  # not important
+      # - run: pip install mkdocs-live-edit-plugin # not important
       - run: pip install pillow cairosvg
+      # - run: pip install mkdocs-minify-plugin # not important
+      - run: pip install mkdocs-awesome-pages-plugin
+      # - run: pip install mkdocs-video # not important
+      # - run: pip install mkdocs-plotly-plugin 
       - run: mkdocs gh-deploy --force

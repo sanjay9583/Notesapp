@@ -68,6 +68,14 @@ theme:
 #         - 'License': 'license.md'
 #         - 'Release Notes': 'release-notes.md'
 
+# nav:
+#     - index.md
+#     - Section 1:
+#         - Other/contact.md
+#         - Other/contributors.md
+#     - Section 2:
+#         - HR/Unit- 1 Introduction/1.1 Concept of HRM.md
+
 markdown_extensions:
   - meta
   - attr_list
@@ -90,6 +98,12 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  # - pymdownx.superfences:
+  #     custom_fences:        
+  #       - name: plotly
+  #         class: mkdocs-plotly
+  #         format: !!python/name:mkdocs_plotly_plugin.fences.fence_plotly
+          
 extra:
   analytics:
     provider: google
@@ -104,6 +118,18 @@ extra_css:
 plugins:
   # - table-reader ## IMPORTANT: This plugin must be installed for it to work, pip install mkdocs-table-reader-plugin
   # - glightbox
+  # - live-edit ## IMPORTANT: This plugin must be installed for it to work, pip install mkdocs-live-edit-plugin - by this plugin you can edit the markdown file in the browser itself
+  # - mkdocs-video # for this to work , all .md files should not be empty, it should have some content
+  # - plotly
+  # - minify:
+  #     minify_html: true
+  #     minify_js: true
+  #     minify_css: true
+  #     htmlmin_opts:
+  #         remove_comments: true
+  #     cache_safe: true
+  # - awesome-pages
+  
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 
