@@ -2,7 +2,7 @@
 
     
 # Contact
-![Sanjay Bandaru](https://media.licdn.com/dms/image/D5622AQGXQb7pmc3ngA/feedshare-shrink_800/0/1688022690008?e=1692230400&v=beta&t=7SLzaSyozq-4wjIlXfNxFbaYhs3J1rfTxhSM8UudZGU){:height="15%" width="15%" style="border-radius: 20%; display: block; margin-left: auto; margin-right: auto; width: 20%;"}
+![Sanjay Bandaru](https://media.licdn.com/dms/image/D5622AQGXQb7pmc3ngA/feedshare-shrink_800/0/1688022690008?e=1695254400&v=beta&t=o3Rh1cxDha_w1al14g9RnqaQgfMMnBzxnkZxrBNMLoE){:height="15%" width="15%" style="border-radius: 20%; display: block; margin-left: auto; margin-right: auto; width: 20%;"}
 
 
 # Sanjay Bandaru {style=text-align:center}
