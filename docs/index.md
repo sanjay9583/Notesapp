@@ -40,7 +40,7 @@ Start preparing smarter and more efficiently with College Hive. [Course Subjects
 
 > "Education is not the learning of facts but the training of the mind to think." - Albert Einstein
 
-<!-- outside file [Go to outside](././main.html){.md-button .md-button--primary} -->
+outside file [Go to outside](../main.html){.md-button .md-button--primary}
 
 ## Why Choose College Hive?
 
