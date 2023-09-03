@@ -5,7 +5,7 @@
 ![Sanjay Bandaru](../../assets\Sanjay_pic.jpg)
 
 
-# Sanjay Bandaru
+# Sanjay Bandaru {align=center}
 
 <!-- keep linkedin icon  and on the click it should redirect to my page -->
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn ](https://www.linkedin.com/in/sanjay-bandaru)
