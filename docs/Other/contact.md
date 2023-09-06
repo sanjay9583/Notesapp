@@ -1,11 +1,11 @@
-
-
-    
 # Contact
-![Sanjay Bandaru](../../assets\Sanjay_pic.jpg)
+<!-- ![Sanjay Bandaru](image.png){width=200px height=200px align=right } -->
+<!-- make image radius crop at corner -->
+![Sanjay Bandaru](image.png){width=200px height=200px align=right border-radius=50px }
+
+# Sanjay Bandaru {align=center color=red}
 
 
-# Sanjay Bandaru {align=center}
 
 <!-- keep linkedin icon  and on the click it should redirect to my page -->
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn ](https://www.linkedin.com/in/sanjay-bandaru)

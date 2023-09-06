@@ -116,9 +116,6 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
-assets:
-  - assets/
-
 plugins:
   # - table-reader ## IMPORTANT: This plugin must be installed for it to work, pip install mkdocs-table-reader-plugin
   # - glightbox
