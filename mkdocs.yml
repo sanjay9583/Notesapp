@@ -127,7 +127,7 @@ copyright: Copyright &copy; 2023 Sanjay Bandaru
 
 nav:
   - Home: index.md
-  - Subjects: table_of_contents.md
+  - Subjects: table_of_content.md
   - FM :
     - Unit 1 Introduction to Financial management: 
       - FM/Unit-1 Introduction to Financial management/1.1 Meaning of finance and financial management.md
