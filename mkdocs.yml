@@ -114,9 +114,6 @@ plugins:
   #     cache_safe: true
   # - awesome-pages
   - offline
-  # - redirect:
-  #     redirect_maps:
-  #       404.html: index.md
   
   
   - search:
@@ -125,347 +122,347 @@ plugins:
 copyright: Copyright &copy; 2023 Sanjay Bandaru
 
 
-nav:
-  - Home: index.md
-  - Subjects: table_of_content.md
-  - FM :
-    - Unit 1 Introduction to Financial management: 
-      - FM/Unit-1 Introduction to Financial management/1.1 Meaning of finance and financial management.md
-      - FM/Unit-1 Introduction to Financial management/1.2 Types of finance.md
-      - FM/Unit-1 Introduction to Financial management/1.3 classification of private finance.md
-      - FM\Unit-1 Introduction to Financial management\1.4 Importance and Scope of financial management.md
-      - FM\Unit-1 Introduction to Financial management\1.5 Approaches to finance function.md
-      - FM\Unit-1 Introduction to Financial management\1.6 Relationship of finance with other business functions.md
-      - FM\Unit-1 Introduction to Financial management\1.7 Objectives of financial management.md
-      - FM\Unit-1 Introduction to Financial management\1.7.1 Profit maximization.md
-      - FM\Unit-1 Introduction to Financial management\1.7.2 Wealth maximization.md
-      - FM\Unit-1 Introduction to Financial management\1.8 Financial decisions.md
-      - FM\Unit-1 Introduction to Financial management\1.9 Internal relation of financial decisions.md
-      - FM\Unit-1 Introduction to Financial management\1.9.a Factors influencing financial decisions.md
-      - FM\Unit-1 Introduction to Financial management\1.9.b Functional areas of financial management.md
-      - FM\Unit-1 Introduction to Financial management\1.9.c Functions of a finance manager.md
-    - Unit 2 Sources of finance and Capitalization:  
-      - FM\Unit-2 Sources of finance and Capitalization\2.1 Ownership securities.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.1.1 Equity shares.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.1.2 Preference shares.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.1.3 Other shares.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.10 Over trading_ Under trading.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.2 Debentures.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.2.1 Corporate Bonds.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.2.2 Zero coupon bonds.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.2.3 Callable bonds.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.2.4 Deep discount bonds.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.3 Internal financing or ploughing back of profit.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.4 Loan financing.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.5 Meaning of capitalization.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.6 Theories of capitalization.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.7 Over capitalization.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.8 Under capitalization.md
-      - FM\Unit-2 Sources of finance and Capitalization\2.9 Watered stock.md
-    - Unit 3 Capital Structure:  
-      - FM\Unit-3 Capital Structure\3.1 Meaning of capital structure.md
-      - FM\Unit-3 Capital Structure\3.2 Meaning of financial structure.md
-      - FM\Unit-3 Capital Structure\3.3 principles of capital structure.md
-      - FM\Unit-3 Capital Structure\3.4 optimum capital structure.md
-      - FM\Unit-3 Capital Structure\3.5 determinants of capital structure.md
-      - FM\Unit-3 Capital Structure\3.6 theories of capital structure.md
-      - FM\Unit-3 Capital Structure\3.7 EPS.md
-      - FM\Unit-3 Capital Structure\3.7.a Proforma of EPS.md
-      - FM\Unit-3 Capital Structure\3.8 Point of indifference.md
-      - FM\Unit-3 Capital Structure\3.9 capital gearing.md
-    - Unit 4 Cost of capital and Leverages: 
-      - FM\Unit-4 Cost of capital and Leverages\4.1 Meaning of cost of capital.md
-      - FM\Unit-4 Cost of capital and Leverages\4.2 significance of cost of capital.md
-      - FM\Unit-4 Cost of capital and Leverages\4.3 components of cost of capital.md
-      - FM\Unit-4 Cost of capital and Leverages\4.4 computation of cost of capital.md
-      - FM\Unit-4 Cost of capital and Leverages\4.5 Weighted Average Cost of Capital.md
-      - FM\Unit-4 Cost of capital and Leverages\4.6 Meaning of leverage.md
-      - FM\Unit-4 Cost of capital and Leverages\4.7 types of leverages.md
-      - FM\Unit-4 Cost of capital and Leverages\4.7.1 operating leverage.md
-      - FM\Unit-4 Cost of capital and Leverages\4.7.2 financial leverage.md
-      - FM\Unit-4 Cost of capital and Leverages\4.7.3 combined leverage.md
-      - FM\Unit-4 Cost of capital and Leverages\4.8 risk and leverage.md
-    - Unit 5 Capital budgeting: 
-      - FM\Unit-5 Capital budgeting\5.1 Meaning of capital budgeting.md
-      - FM\Unit-5 Capital budgeting\5.2 Importance.md
-      - FM\Unit-5 Capital budgeting\5.3 Need.md
-      - FM\Unit-5 Capital budgeting\5.4 Time value of money.md
-      - FM\Unit-5 Capital budgeting\5.5 capital budgeting process.md
-      - FM\Unit-5 Capital budgeting\5.6 Traditional methods.md
-      - FM\Unit-5 Capital budgeting\5.7 Modern methods.md
-      - FM\Unit-5 Capital budgeting\5.7.1 Payback period.md
-      - FM\Unit-5 Capital budgeting\5.7.2 Accounting rate of return.md
-      - FM\Unit-5 Capital budgeting\5.7.3 NPV method.md
-      - FM\Unit-5 Capital budgeting\5.7.4 Profitability index.md
-      - FM\Unit-5 Capital budgeting\5.7.5 IRR methods.md
-    - Unit 6 Dividend policy decisions:
-      - FM\Unit-6 Dividend policy decisions\6.1 Meaning.md
-      - FM\Unit-6 Dividend policy decisions\6.2 Kinds.md
-      - FM\Unit-6 Dividend policy decisions\6.3 Bonus shares.md
-      - FM\Unit-6 Dividend policy decisions\6.3.1 Merits.md
-      - FM\Unit-6 Dividend policy decisions\6.3.2 Demerits.md
-      - FM\Unit-6 Dividend policy decisions\6.4 theories of dividend decisions.md
-      - FM\Unit-6 Dividend policy decisions\6.5 determinants of dividend policy decisions.md
-    - Unit 7 Management of working capital: 
-      - FM\Unit-7 Management of working capital\7.1 Meaning of working capital.md
-      - FM\Unit-7 Management of working capital\7.2 types of working capital.md
-      - FM\Unit-7 Management of working capital\7.3 working capital cycle.md
-      - FM\Unit-7 Management of working capital\7.4 adequate working capital.md
-      - FM\Unit-7 Management of working capital\7.5 determinants of working capital.md
-      - FM\Unit-7 Management of working capital\7.6 estimation of working capital.md
-      - FM\Unit-7 Management of working capital\7.7 Management of cash.md
-      - FM\Unit-7 Management of working capital\7.8 Management of inventory.md
-      - FM\Unit-7 Management of working capital\7.9 Management of debtors.md
-  - FMS :
-    - Unit 1 Introduction to Financial System:
-      - FMS\Unit-1 Introduction to Financial System\1.1 Introduction - Meaning.md
-      - FMS\Unit-1 Introduction to Financial System\1.2 Structure.md
-      - FMS\Unit-1 Introduction to Financial System\1.3 Functions.md
-      - FMS\Unit-1 Introduction to Financial System\1.4 Components of financial system.md
-      - FMS\Unit-1 Introduction to Financial System\1.5 Financial system and economic development.md
-      - FMS\Unit-1 Introduction to Financial System\1.6 Evolution of Indian financial system.md
-      - FMS\Unit-1 Introduction to Financial System\1.7 Reforms in Indian financial system.md
-    - Unit 2 Capital Markets - Primary:  
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.1 Introduction & Meaning - Functions & Constituents & Importance.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.2 Classification of Capital Market.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3 Primary Market - Meaning & Functions.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.a Constituents & Importance of Primary Market.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.b Issue of securities & IPO.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.c Private Placement.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.d Right Issue.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.e Bonus Issue.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.f Qualified Institutional Placement (QIP).md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4 Process of IPO.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.a Book Building.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.b Merchant Bankers.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.c Lead Managers.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.d Prospectus.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.e Price band.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.f Determination of Issue Price.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.g Allotment of Shares.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.h Application Supported Blocked Amount (ASBA).md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.he Anchor Investor.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.i Green Shoe Option.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.j Listing of Shares.md
-      - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.k Recent IPOs.md
-    - Unit 3 Capital Markets - Secondary:  
-      - FMS\Unit-3 Capital Markets - Secondary\3.1 Introduction to Secondary Market & Meaning, Definition, Role and Importance.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.10 Stock market Indices.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.11 Construction of Index.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.12 Depositories.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.13 Margin Trading.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.2 Constituents of secondary market.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.3 Stock exchanges - Meaning, Definition and Functions.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.4 Stock exchanges in India and abroad.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.5 Regulation of Stock exchanges in India.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.6 Demutualization of stock exchanges.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.7 Listing of securities.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.8 Risk management.md
-      - FMS\Unit-3 Capital Markets - Secondary\3.9 Trading Mechanisms.md
-    - Unit 4 Money Market:  
-      - FMS\Unit-4 Money Market\4.1 Introduction & Meaning & Significance.md
-      - FMS\Unit-4 Money Market\4.10 Role of RBI in money market.md
-      - FMS\Unit-4 Money Market\4.2 Structure.md
-      - FMS\Unit-4 Money Market\4.3 Features of money market.md
-      - FMS\Unit-4 Money Market\4.4 Importance of money market.md
-      - FMS\Unit-4 Money Market\4.5 Players in Money market.md
-      - FMS\Unit-4 Money Market\4.6 Money market instruments.md
-      - FMS\Unit-4 Money Market\4.7 Reforms in Indian money market.md
-      - FMS\Unit-4 Money Market\4.8 Monetary policy.md
-      - FMS\Unit-4 Money Market\4.9 Credit Policy.md
-    - Unit 5 Financial Institutions:  
-      - FMS\Unit-5 Financial Institutions\5.1 Introduction & Meaning and Classification of Financial institutions.md
-      - FMS\Unit-5 Financial Institutions\5.2 Banking institutions.md
-      - FMS\Unit-5 Financial Institutions\5.3 Commercial banks & Functions.md
-      - FMS\Unit-5 Financial Institutions\5.4 Non banking financial institutions.md
-      - FMS\Unit-5 Financial Institutions\5.5 Development, All India and Specialized Financial Institutions.md
-      - FMS\Unit-5 Financial Institutions\5.6 Role and Functions of RBI in regulating Banking and Non-banking financial Institutions.md
-    - Unit 6 Financial Services I:  
-      - FMS\Unit-6 Financial Services I\6.1 Introduction - Meaning & Types.md
-      - FMS\Unit-6 Financial Services I\6.10 UPI and BHIM.md
-      - FMS\Unit-6 Financial Services I\6.11 Insurance & Meaning, Definition, Principles and classification.md
-      - FMS\Unit-6 Financial Services I\6.2 Fund based and fee based financial services.md
-      - FMS\Unit-6 Financial Services I\6.3 Banking & E-Banking and Internet Banking.md
-      - FMS\Unit-6 Financial Services I\6.4 Mobile Banking and Telephone Banking.md
-      - FMS\Unit-6 Financial Services I\6.5 ATM and Electronic Money.md
-      - FMS\Unit-6 Financial Services I\6.6 Credit Cards.md
-      - FMS\Unit-6 Financial Services I\6.7 Electronic Funds Transfer System.md
-      - FMS\Unit-6 Financial Services I\6.8 RTGS, NEFT and IMPS.md
-      - FMS\Unit-6 Financial Services I\6.9 Modern Channels in Banking Services.md
-    - Unit 7 Financial Services II:  
-      - FMS\Unit-7 Financial Services II\7.1 Introduction.md
-      - FMS\Unit-7 Financial Services II\7.10 Wealth Management service.md
-      - FMS\Unit-7 Financial Services II\7.2 Leasing.md
-      - FMS\Unit-7 Financial Services II\7.3 Hire purchase.md
-      - FMS\Unit-7 Financial Services II\7.4 Mutual funds - Meaning, Definition advantages, disadvantages and types.md
-      - FMS\Unit-7 Financial Services II\7.5 Factoring.md
-      - FMS\Unit-7 Financial Services II\7.6 Forfaiting.md
-      - FMS\Unit-7 Financial Services II\7.7 Other Financial Services.md
-      - FMS\Unit-7 Financial Services II\7.8 Loan syndication.md
-      - FMS\Unit-7 Financial Services II\7.9 Portfolio Management.md
-  - HRM :
-    - Unit 1 Introduction:
-      - HRM\Unit-1 Introduction\1.1 Concept of HRM.md
-      - HRM\Unit-1 Introduction\1.2 Evolution of HRM.md
-      - HRM\Unit-1 Introduction\1.3 Role of Human Resource Manager.md
-      - HRM\Unit-1 Introduction\1.4 Functions of HRM.md
-      - HRM\Unit-1 Introduction\1.5 HR Structure.md
-      - HRM\Unit-1 Introduction\1.6 Concept of Strategic HRM.md
-    - Unit 2 Job Analysis and Human Resource Planning:    
-      - HRM\Unit-2 Job Analysis and Human Resource Planning\2.1 Concept of Job Analysis.md
-      - HRM\Unit-2 Job Analysis and Human Resource Planning\2.2 Importance and Benefits of Job Analysis.md
-      - HRM\Unit-2 Job Analysis and Human Resource Planning\2.3 Job Analysis Process.md
-      - HRM\Unit-2 Job Analysis and Human Resource Planning\2.4 Job Description.md
-      - HRM\Unit-2 Job Analysis and Human Resource Planning\2.5 Job Specification.md
-      - HRM\Unit-2 Job Analysis and Human Resource Planning\2.6 Other Job Related Concept.md
-      - HRM\Unit-2 Job Analysis and Human Resource Planning\2.7 Telecommuting.md
-      - HRM\Unit-2 Job Analysis and Human Resource Planning\2.8 Ergonomics.md
-      - HRM\Unit-2 Job Analysis and Human Resource Planning\2.9 Concept & Importance of HRP.md
-      - HRM\Unit-2 Job Analysis and Human Resource Planning\2.9.a Different stages of HR Planning Process.md
-      - HRM\Unit-2 Job Analysis and Human Resource Planning\2.9.b Action Plans in case of shortage and surplus of the workforce.md
-    - Unit 3 Recruitment and Selection:  
-      - HRM\Unit-3 Recruitment and Selection\3.1 Concept of Recruitment.md
-      - HRM\Unit-3 Recruitment and Selection\3.2 Factors affecting Recruitments.md
-      - HRM\Unit-3 Recruitment and Selection\3.3 Sources of Recruitment.md
-      - HRM\Unit-3 Recruitment and Selection\3.4 Definition and Importance of Selection.md
-      - HRM\Unit-3 Recruitment and Selection\3.5 Stages involved in Selection Process.md
-      - HRM\Unit-3 Recruitment and Selection\3.6 Types of Selection Tests.md
-      - HRM\Unit-3 Recruitment and Selection\3.7 Types of Interviews.md
-      - HRM\Unit-3 Recruitment and Selection\3.8 Meaning and Benefits of Induction.md
-      - HRM\Unit-3 Recruitment and Selection\3.9 Content of an Induction Program.md
-    - Unit 4 Learning and Development and Career Mobility:  
-      - HRM\Unit-4 Learning and Development and Career Mobility\4.1 Meaning and Importance of Training and Development Programs.md
-      - HRM\Unit-4 Learning and Development and Career Mobility\4.10 Internal Mobility of Employees.md
-      - HRM\Unit-4 Learning and Development and Career Mobility\4.11 External Mobility of Employees.md
-      - HRM\Unit-4 Learning and Development and Career Mobility\4.2 Stages involved in Training Process.md
-      - HRM\Unit-4 Learning and Development and Career Mobility\4.3 Training & Development Methods.md
-      - HRM\Unit-4 Learning and Development and Career Mobility\4.4 Off-the-Job Training & Development Methods.md
-      - HRM\Unit-4 Learning and Development and Career Mobility\4.5 Career Management Process.md
-      - HRM\Unit-4 Learning and Development and Career Mobility\4.6 Models of Career Management.md
-      - HRM\Unit-4 Learning and Development and Career Mobility\4.7 Role & Challenges of Career Development.md
-      - HRM\Unit-4 Learning and Development and Career Mobility\4.8 Career Development Initiatives.md
-      - HRM\Unit-4 Learning and Development and Career Mobility\4.9 Stages in Career Planning.md
-    - Unit 5 Performance Appraisal and Compensation Management:  
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.1 Purpose of Performance Appraisal.md
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.10 group incentives.md
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.11 managing employee benefits.md
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.12 managing services.md
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.2 Trait Methods of Performance Appraisals.md
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.3 Behavioural Methods of Performance Appraisals.md
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.4 Result Methods of Performance Appraisals.md
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.5 Process of Performance Appraisal.md
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.6 Components of compensation.md
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.7 incentive payments.md
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.8 scope of incentive schemes.md
-      - HRM\Unit-5 Performance Appraisal and Compensation Management\5.9 types of incentives.md
-    - Unit 6 Introduction to Industrial Relations and Labour laws:  
-      - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.1 Meaning of Industrial Relations.md
-      - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.2 Theories of IR.md
-      - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.3 Meaning of Employee Grievance.md
-      - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.4 Sources of Employee Grievance.md
-      - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.5 Grievance Handling Systems.md
-      - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.6 Meaning & Process of Collective Bargaining.md
-      - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.7 Indiscipline.md
-      - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.8 Settlement Machinery of Industrial Conflicts.md
-      - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.9 Labour laws related to social security measures.md
-    - Unit 7 Contemporary issues and trends in HRM:
-      - HRM\Unit-7 Contemporary issues and trends in HRM\7.1 Gig workers.md
-      - HRM\Unit-7 Contemporary issues and trends in HRM\7.2 Work from home.md
-      - HRM\Unit-7 Contemporary issues and trends in HRM\7.3 Ethical Issues in HRM.md
-      - HRM\Unit-7 Contemporary issues and trends in HRM\7.4 E-HRM.md
-      - HRM\Unit-7 Contemporary issues and trends in HRM\7.5 Introduction to International HRM.md
-  - IR :  
-    - Unit 2 International Organizations and The World Economy:
-      - IR\Unit- 2 International Organizations and The World Economy\2.a International Organization.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.b United Nations Organizations.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.c European Union.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.d International Political Economy.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.e International Monetary Fund.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.f Unicef.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.g World Bank.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.h World Trade Organization.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.i Human Rights Watch.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.j Amnesty Internation.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.j World wide fund.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.k World Economic Forum.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.l world health organisation.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.m nato.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.n Globalisation.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.o Care.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.p Greenpeace.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.q International Red Cross.md
-      - IR\Unit- 2 International Organizations and The World Economy\2.r Oxfam internation.md
-  - MM :
-    - Unit 1 Introduction to Marketing Fundamentals:
-      - MM\Unit-1 Introduction to Marketing Fundamentals\1.1 Meaning Definition marketing.md
-      - MM\Unit-1 Introduction to Marketing Fundamentals\1.2 scope of marketing.md
-      - MM\Unit-1 Introduction to Marketing Fundamentals\1.3 core marketing concepts.md
-      - MM\Unit-1 Introduction to Marketing Fundamentals\1.4 Delivering and Creating Customer Value.md
-      - MM\Unit-1 Introduction to Marketing Fundamentals\1.5 Marketing Ecosystem.md
-    - Unit 2 Connecting with Customers:  
-      - MM\Unit-2 Connecting with Customers\2.1 Consumer behavior model.md
-      - MM\Unit-2 Connecting with Customers\2.2 Factors affecting consumer Behavior.md
-      - MM\Unit-2 Connecting with Customers\2.3 Types of Buying Decision Behavior.md
-      - MM\Unit-2 Connecting with Customers\2.4 The Buyer Decision Process.md
-      - MM\Unit-2 Connecting with Customers\2.5 Business Buyer Behavior.md
-      - MM\Unit-2 Connecting with Customers\2.6 The Business Buyer Decision Process.md
-      - MM\Unit-2 Connecting with Customers\2.7 Institutional and Government Market.md
-      - MM\Unit-2 Connecting with Customers\2.8.a STP Model.md
-      - MM\Unit-2 Connecting with Customers\2.8.b Segmentation.md
-      - MM\Unit-2 Connecting with Customers\2.9 Targeting.md
-      - MM\Unit-2 Connecting with Customers\2.9.a Positioning.md
-    - Unit 3 Product Decision:  
-      - MM\Unit-3 Product Decision\3.1 Product Levels.md
-      - MM\Unit-3 Product Decision\3.2 Product Characteristics and Classifications.md
-      - MM\Unit-3 Product Decision\3.3 New product development stages.md
-      - MM\Unit-3 Product Decision\3.4 categories of new product.md
-      - MM\Unit-3 Product Decision\3.5 reasons for launching new products and its failure.md
-      - MM\Unit-3 Product Decision\3.6 Product life cycle strategies and its extension.md
-      - MM\Unit-3 Product Decision\3.7 Ansoff’s Matrix.md
-      - MM\Unit-3 Product Decision\3.8 meaning of services.md
-      - MM\Unit-3 Product Decision\3.9 unique characteristics of services.md
-      - MM\Unit-3 Product Decision\3.9.a 7Ps of service marketing.md
-      - MM\Unit-3 Product Decision\3.9.b Service delivery process.md
-    - Unit 4 Pricing:  
-      - MM\Unit-4 Pricing\4.1 Pricing consideration and approaches.md
-      - MM\Unit-4 Pricing\4.2 Types of pricing.md
-      - MM\Unit-4 Pricing\4.3 Methods.md
-      - MM\Unit-4 Pricing\4.4 Pricing strategies.md
-      - MM\Unit-4 Pricing\4.5 new product pricing strategies.md
-      - MM\Unit-4 Pricing\4.6 Product mix pricing strategies.md
-      - MM\Unit-4 Pricing\4.7 Price adjustment strategies.md
-    - Unit 5 Distribution Channels: 
-      - MM\Unit-5 Distribution Channels\5.1 Marketing channels.md
-      - MM\Unit-5 Distribution Channels\5.10 channel conflict.md
-      - MM\Unit-5 Distribution Channels\5.2 structure.md
-      - MM\Unit-5 Distribution Channels\5.3 types.md
-      - MM\Unit-5 Distribution Channels\5.4 criteria of selecting a channel.md
-      - MM\Unit-5 Distribution Channels\5.5 wholesaling.md
-      - MM\Unit-5 Distribution Channels\5.6 retailing.md
-      - MM\Unit-5 Distribution Channels\5.7 physical distribution.md
-      - MM\Unit-5 Distribution Channels\5.8 Channel Management.md
-      - MM\Unit-5 Distribution Channels\5.9 channel design.md
-    - Unit 6 Promotion:  
-      - MM\Unit-6 Promotion\6.1 Significance of Integrated Marketing Communication.md
-      - MM\Unit-6 Promotion\6.10 Other promotional strategies.md
-      - MM\Unit-6 Promotion\6.2 Advertising.md
-      - MM\Unit-6 Promotion\6.3 sales promotion.md
-      - MM\Unit-6 Promotion\6.4 personal selling.md
-      - MM\Unit-6 Promotion\6.5 sales management.md
-      - MM\Unit-6 Promotion\6.6 Public and customer relations.md
-      - MM\Unit-6 Promotion\6.7 direct marketing.md
-      - MM\Unit-6 Promotion\6.8 online marketing.md
-      - MM\Unit-6 Promotion\6.9 multilevel marketing.md
-    - Unit 7 Socially Responsible Marketing:  
-      - MM\Unit-7 Socially Responsible Marketing\7.1 Sustainable Marketing.md
-      - MM\Unit-7 Socially Responsible Marketing\7.2 Social Criticisms of Marketing.md
-      - MM\Unit-7 Socially Responsible Marketing\7.3 MarketingΓÇÖs Impact on Individual.md
-      - MM\Unit-7 Socially Responsible Marketing\7.4 MarketingΓÇÖs Impact on Society as a Whole.md
-      - MM\Unit-7 Socially Responsible Marketing\7.5 MarketingΓÇÖs Impact on Other Businesses.md
-      - MM\Unit-7 Socially Responsible Marketing\7.6 Actions to Promote Sustainable Marketing.md
-      - MM\Unit-7 Socially Responsible Marketing\7.7 Principles and Marketing Ethics.md
-  - Other :
+# nav:
+#   - Home: index.md
+#   - Subjects: table_of_content.md
+#   - FM :
+#     - Unit 1 Introduction to Financial management: 
+#       - FM/Unit-1 Introduction to Financial management/1.1 Meaning of finance and financial management.md
+#       - FM/Unit-1 Introduction to Financial management/1.2 Types of finance.md
+#       - FM/Unit-1 Introduction to Financial management/1.3 classification of private finance.md
+#       - FM\Unit-1 Introduction to Financial management\1.4 Importance and Scope of financial management.md
+#       - FM\Unit-1 Introduction to Financial management\1.5 Approaches to finance function.md
+#       - FM\Unit-1 Introduction to Financial management\1.6 Relationship of finance with other business functions.md
+#       - FM\Unit-1 Introduction to Financial management\1.7 Objectives of financial management.md
+#       - FM\Unit-1 Introduction to Financial management\1.7.1 Profit maximization.md
+#       - FM\Unit-1 Introduction to Financial management\1.7.2 Wealth maximization.md
+#       - FM\Unit-1 Introduction to Financial management\1.8 Financial decisions.md
+#       - FM\Unit-1 Introduction to Financial management\1.9 Internal relation of financial decisions.md
+#       - FM\Unit-1 Introduction to Financial management\1.9.a Factors influencing financial decisions.md
+#       - FM\Unit-1 Introduction to Financial management\1.9.b Functional areas of financial management.md
+#       - FM\Unit-1 Introduction to Financial management\1.9.c Functions of a finance manager.md
+#     - Unit 2 Sources of finance and Capitalization:  
+#       - FM\Unit-2 Sources of finance and Capitalization\2.1 Ownership securities.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.1.1 Equity shares.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.1.2 Preference shares.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.1.3 Other shares.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.10 Over trading_ Under trading.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.2 Debentures.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.2.1 Corporate Bonds.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.2.2 Zero coupon bonds.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.2.3 Callable bonds.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.2.4 Deep discount bonds.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.3 Internal financing or ploughing back of profit.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.4 Loan financing.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.5 Meaning of capitalization.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.6 Theories of capitalization.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.7 Over capitalization.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.8 Under capitalization.md
+#       - FM\Unit-2 Sources of finance and Capitalization\2.9 Watered stock.md
+#     - Unit 3 Capital Structure:  
+#       - FM\Unit-3 Capital Structure\3.1 Meaning of capital structure.md
+#       - FM\Unit-3 Capital Structure\3.2 Meaning of financial structure.md
+#       - FM\Unit-3 Capital Structure\3.3 principles of capital structure.md
+#       - FM\Unit-3 Capital Structure\3.4 optimum capital structure.md
+#       - FM\Unit-3 Capital Structure\3.5 determinants of capital structure.md
+#       - FM\Unit-3 Capital Structure\3.6 theories of capital structure.md
+#       - FM\Unit-3 Capital Structure\3.7 EPS.md
+#       - FM\Unit-3 Capital Structure\3.7.a Proforma of EPS.md
+#       - FM\Unit-3 Capital Structure\3.8 Point of indifference.md
+#       - FM\Unit-3 Capital Structure\3.9 capital gearing.md
+#     - Unit 4 Cost of capital and Leverages: 
+#       - FM\Unit-4 Cost of capital and Leverages\4.1 Meaning of cost of capital.md
+#       - FM\Unit-4 Cost of capital and Leverages\4.2 significance of cost of capital.md
+#       - FM\Unit-4 Cost of capital and Leverages\4.3 components of cost of capital.md
+#       - FM\Unit-4 Cost of capital and Leverages\4.4 computation of cost of capital.md
+#       - FM\Unit-4 Cost of capital and Leverages\4.5 Weighted Average Cost of Capital.md
+#       - FM\Unit-4 Cost of capital and Leverages\4.6 Meaning of leverage.md
+#       - FM\Unit-4 Cost of capital and Leverages\4.7 types of leverages.md
+#       - FM\Unit-4 Cost of capital and Leverages\4.7.1 operating leverage.md
+#       - FM\Unit-4 Cost of capital and Leverages\4.7.2 financial leverage.md
+#       - FM\Unit-4 Cost of capital and Leverages\4.7.3 combined leverage.md
+#       - FM\Unit-4 Cost of capital and Leverages\4.8 risk and leverage.md
+#     - Unit 5 Capital budgeting: 
+#       - FM\Unit-5 Capital budgeting\5.1 Meaning of capital budgeting.md
+#       - FM\Unit-5 Capital budgeting\5.2 Importance.md
+#       - FM\Unit-5 Capital budgeting\5.3 Need.md
+#       - FM\Unit-5 Capital budgeting\5.4 Time value of money.md
+#       - FM\Unit-5 Capital budgeting\5.5 capital budgeting process.md
+#       - FM\Unit-5 Capital budgeting\5.6 Traditional methods.md
+#       - FM\Unit-5 Capital budgeting\5.7 Modern methods.md
+#       - FM\Unit-5 Capital budgeting\5.7.1 Payback period.md
+#       - FM\Unit-5 Capital budgeting\5.7.2 Accounting rate of return.md
+#       - FM\Unit-5 Capital budgeting\5.7.3 NPV method.md
+#       - FM\Unit-5 Capital budgeting\5.7.4 Profitability index.md
+#       - FM\Unit-5 Capital budgeting\5.7.5 IRR methods.md
+#     - Unit 6 Dividend policy decisions:
+#       - FM\Unit-6 Dividend policy decisions\6.1 Meaning.md
+#       - FM\Unit-6 Dividend policy decisions\6.2 Kinds.md
+#       - FM\Unit-6 Dividend policy decisions\6.3 Bonus shares.md
+#       - FM\Unit-6 Dividend policy decisions\6.3.1 Merits.md
+#       - FM\Unit-6 Dividend policy decisions\6.3.2 Demerits.md
+#       - FM\Unit-6 Dividend policy decisions\6.4 theories of dividend decisions.md
+#       - FM\Unit-6 Dividend policy decisions\6.5 determinants of dividend policy decisions.md
+#     - Unit 7 Management of working capital: 
+#       - FM\Unit-7 Management of working capital\7.1 Meaning of working capital.md
+#       - FM\Unit-7 Management of working capital\7.2 types of working capital.md
+#       - FM\Unit-7 Management of working capital\7.3 working capital cycle.md
+#       - FM\Unit-7 Management of working capital\7.4 adequate working capital.md
+#       - FM\Unit-7 Management of working capital\7.5 determinants of working capital.md
+#       - FM\Unit-7 Management of working capital\7.6 estimation of working capital.md
+#       - FM\Unit-7 Management of working capital\7.7 Management of cash.md
+#       - FM\Unit-7 Management of working capital\7.8 Management of inventory.md
+#       - FM\Unit-7 Management of working capital\7.9 Management of debtors.md
+#   - FMS :
+#     - Unit 1 Introduction to Financial System:
+#       - FMS\Unit-1 Introduction to Financial System\1.1 Introduction - Meaning.md
+#       - FMS\Unit-1 Introduction to Financial System\1.2 Structure.md
+#       - FMS\Unit-1 Introduction to Financial System\1.3 Functions.md
+#       - FMS\Unit-1 Introduction to Financial System\1.4 Components of financial system.md
+#       - FMS\Unit-1 Introduction to Financial System\1.5 Financial system and economic development.md
+#       - FMS\Unit-1 Introduction to Financial System\1.6 Evolution of Indian financial system.md
+#       - FMS\Unit-1 Introduction to Financial System\1.7 Reforms in Indian financial system.md
+#     - Unit 2 Capital Markets - Primary:  
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.1 Introduction & Meaning - Functions & Constituents & Importance.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.2 Classification of Capital Market.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3 Primary Market - Meaning & Functions.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.a Constituents & Importance of Primary Market.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.b Issue of securities & IPO.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.c Private Placement.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.d Right Issue.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.e Bonus Issue.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.3.f Qualified Institutional Placement (QIP).md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4 Process of IPO.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.a Book Building.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.b Merchant Bankers.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.c Lead Managers.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.d Prospectus.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.e Price band.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.f Determination of Issue Price.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.g Allotment of Shares.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.h Application Supported Blocked Amount (ASBA).md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.he Anchor Investor.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.i Green Shoe Option.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.j Listing of Shares.md
+#       - FMS\Unit-2 Financial Markets - Primary Markets & IPO\2.4.k Recent IPOs.md
+#     - Unit 3 Capital Markets - Secondary:  
+#       - FMS\Unit-3 Capital Markets - Secondary\3.1 Introduction to Secondary Market & Meaning, Definition, Role and Importance.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.10 Stock market Indices.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.11 Construction of Index.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.12 Depositories.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.13 Margin Trading.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.2 Constituents of secondary market.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.3 Stock exchanges - Meaning, Definition and Functions.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.4 Stock exchanges in India and abroad.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.5 Regulation of Stock exchanges in India.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.6 Demutualization of stock exchanges.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.7 Listing of securities.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.8 Risk management.md
+#       - FMS\Unit-3 Capital Markets - Secondary\3.9 Trading Mechanisms.md
+#     - Unit 4 Money Market:  
+#       - FMS\Unit-4 Money Market\4.1 Introduction & Meaning & Significance.md
+#       - FMS\Unit-4 Money Market\4.10 Role of RBI in money market.md
+#       - FMS\Unit-4 Money Market\4.2 Structure.md
+#       - FMS\Unit-4 Money Market\4.3 Features of money market.md
+#       - FMS\Unit-4 Money Market\4.4 Importance of money market.md
+#       - FMS\Unit-4 Money Market\4.5 Players in Money market.md
+#       - FMS\Unit-4 Money Market\4.6 Money market instruments.md
+#       - FMS\Unit-4 Money Market\4.7 Reforms in Indian money market.md
+#       - FMS\Unit-4 Money Market\4.8 Monetary policy.md
+#       - FMS\Unit-4 Money Market\4.9 Credit Policy.md
+#     - Unit 5 Financial Institutions:  
+#       - FMS\Unit-5 Financial Institutions\5.1 Introduction & Meaning and Classification of Financial institutions.md
+#       - FMS\Unit-5 Financial Institutions\5.2 Banking institutions.md
+#       - FMS\Unit-5 Financial Institutions\5.3 Commercial banks & Functions.md
+#       - FMS\Unit-5 Financial Institutions\5.4 Non banking financial institutions.md
+#       - FMS\Unit-5 Financial Institutions\5.5 Development, All India and Specialized Financial Institutions.md
+#       - FMS\Unit-5 Financial Institutions\5.6 Role and Functions of RBI in regulating Banking and Non-banking financial Institutions.md
+#     - Unit 6 Financial Services I:  
+#       - FMS\Unit-6 Financial Services I\6.1 Introduction - Meaning & Types.md
+#       - FMS\Unit-6 Financial Services I\6.10 UPI and BHIM.md
+#       - FMS\Unit-6 Financial Services I\6.11 Insurance & Meaning, Definition, Principles and classification.md
+#       - FMS\Unit-6 Financial Services I\6.2 Fund based and fee based financial services.md
+#       - FMS\Unit-6 Financial Services I\6.3 Banking & E-Banking and Internet Banking.md
+#       - FMS\Unit-6 Financial Services I\6.4 Mobile Banking and Telephone Banking.md
+#       - FMS\Unit-6 Financial Services I\6.5 ATM and Electronic Money.md
+#       - FMS\Unit-6 Financial Services I\6.6 Credit Cards.md
+#       - FMS\Unit-6 Financial Services I\6.7 Electronic Funds Transfer System.md
+#       - FMS\Unit-6 Financial Services I\6.8 RTGS, NEFT and IMPS.md
+#       - FMS\Unit-6 Financial Services I\6.9 Modern Channels in Banking Services.md
+#     - Unit 7 Financial Services II:  
+#       - FMS\Unit-7 Financial Services II\7.1 Introduction.md
+#       - FMS\Unit-7 Financial Services II\7.10 Wealth Management service.md
+#       - FMS\Unit-7 Financial Services II\7.2 Leasing.md
+#       - FMS\Unit-7 Financial Services II\7.3 Hire purchase.md
+#       - FMS\Unit-7 Financial Services II\7.4 Mutual funds - Meaning, Definition advantages, disadvantages and types.md
+#       - FMS\Unit-7 Financial Services II\7.5 Factoring.md
+#       - FMS\Unit-7 Financial Services II\7.6 Forfaiting.md
+#       - FMS\Unit-7 Financial Services II\7.7 Other Financial Services.md
+#       - FMS\Unit-7 Financial Services II\7.8 Loan syndication.md
+#       - FMS\Unit-7 Financial Services II\7.9 Portfolio Management.md
+#   - HRM :
+#     - Unit 1 Introduction:
+#       - HRM\Unit-1 Introduction\1.1 Concept of HRM.md
+#       - HRM\Unit-1 Introduction\1.2 Evolution of HRM.md
+#       - HRM\Unit-1 Introduction\1.3 Role of Human Resource Manager.md
+#       - HRM\Unit-1 Introduction\1.4 Functions of HRM.md
+#       - HRM\Unit-1 Introduction\1.5 HR Structure.md
+#       - HRM\Unit-1 Introduction\1.6 Concept of Strategic HRM.md
+#     - Unit 2 Job Analysis and Human Resource Planning:    
+#       - HRM\Unit-2 Job Analysis and Human Resource Planning\2.1 Concept of Job Analysis.md
+#       - HRM\Unit-2 Job Analysis and Human Resource Planning\2.2 Importance and Benefits of Job Analysis.md
+#       - HRM\Unit-2 Job Analysis and Human Resource Planning\2.3 Job Analysis Process.md
+#       - HRM\Unit-2 Job Analysis and Human Resource Planning\2.4 Job Description.md
+#       - HRM\Unit-2 Job Analysis and Human Resource Planning\2.5 Job Specification.md
+#       - HRM\Unit-2 Job Analysis and Human Resource Planning\2.6 Other Job Related Concept.md
+#       - HRM\Unit-2 Job Analysis and Human Resource Planning\2.7 Telecommuting.md
+#       - HRM\Unit-2 Job Analysis and Human Resource Planning\2.8 Ergonomics.md
+#       - HRM\Unit-2 Job Analysis and Human Resource Planning\2.9 Concept & Importance of HRP.md
+#       - HRM\Unit-2 Job Analysis and Human Resource Planning\2.9.a Different stages of HR Planning Process.md
+#       - HRM\Unit-2 Job Analysis and Human Resource Planning\2.9.b Action Plans in case of shortage and surplus of the workforce.md
+#     - Unit 3 Recruitment and Selection:  
+#       - HRM\Unit-3 Recruitment and Selection\3.1 Concept of Recruitment.md
+#       - HRM\Unit-3 Recruitment and Selection\3.2 Factors affecting Recruitments.md
+#       - HRM\Unit-3 Recruitment and Selection\3.3 Sources of Recruitment.md
+#       - HRM\Unit-3 Recruitment and Selection\3.4 Definition and Importance of Selection.md
+#       - HRM\Unit-3 Recruitment and Selection\3.5 Stages involved in Selection Process.md
+#       - HRM\Unit-3 Recruitment and Selection\3.6 Types of Selection Tests.md
+#       - HRM\Unit-3 Recruitment and Selection\3.7 Types of Interviews.md
+#       - HRM\Unit-3 Recruitment and Selection\3.8 Meaning and Benefits of Induction.md
+#       - HRM\Unit-3 Recruitment and Selection\3.9 Content of an Induction Program.md
+#     - Unit 4 Learning and Development and Career Mobility:  
+#       - HRM\Unit-4 Learning and Development and Career Mobility\4.1 Meaning and Importance of Training and Development Programs.md
+#       - HRM\Unit-4 Learning and Development and Career Mobility\4.10 Internal Mobility of Employees.md
+#       - HRM\Unit-4 Learning and Development and Career Mobility\4.11 External Mobility of Employees.md
+#       - HRM\Unit-4 Learning and Development and Career Mobility\4.2 Stages involved in Training Process.md
+#       - HRM\Unit-4 Learning and Development and Career Mobility\4.3 Training & Development Methods.md
+#       - HRM\Unit-4 Learning and Development and Career Mobility\4.4 Off-the-Job Training & Development Methods.md
+#       - HRM\Unit-4 Learning and Development and Career Mobility\4.5 Career Management Process.md
+#       - HRM\Unit-4 Learning and Development and Career Mobility\4.6 Models of Career Management.md
+#       - HRM\Unit-4 Learning and Development and Career Mobility\4.7 Role & Challenges of Career Development.md
+#       - HRM\Unit-4 Learning and Development and Career Mobility\4.8 Career Development Initiatives.md
+#       - HRM\Unit-4 Learning and Development and Career Mobility\4.9 Stages in Career Planning.md
+#     - Unit 5 Performance Appraisal and Compensation Management:  
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.1 Purpose of Performance Appraisal.md
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.10 group incentives.md
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.11 managing employee benefits.md
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.12 managing services.md
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.2 Trait Methods of Performance Appraisals.md
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.3 Behavioural Methods of Performance Appraisals.md
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.4 Result Methods of Performance Appraisals.md
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.5 Process of Performance Appraisal.md
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.6 Components of compensation.md
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.7 incentive payments.md
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.8 scope of incentive schemes.md
+#       - HRM\Unit-5 Performance Appraisal and Compensation Management\5.9 types of incentives.md
+#     - Unit 6 Introduction to Industrial Relations and Labour laws:  
+#       - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.1 Meaning of Industrial Relations.md
+#       - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.2 Theories of IR.md
+#       - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.3 Meaning of Employee Grievance.md
+#       - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.4 Sources of Employee Grievance.md
+#       - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.5 Grievance Handling Systems.md
+#       - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.6 Meaning & Process of Collective Bargaining.md
+#       - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.7 Indiscipline.md
+#       - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.8 Settlement Machinery of Industrial Conflicts.md
+#       - HRM\Unit-6 Introduction to Industrial Relations and Labour laws\6.9 Labour laws related to social security measures.md
+#     - Unit 7 Contemporary issues and trends in HRM:
+#       - HRM\Unit-7 Contemporary issues and trends in HRM\7.1 Gig workers.md
+#       - HRM\Unit-7 Contemporary issues and trends in HRM\7.2 Work from home.md
+#       - HRM\Unit-7 Contemporary issues and trends in HRM\7.3 Ethical Issues in HRM.md
+#       - HRM\Unit-7 Contemporary issues and trends in HRM\7.4 E-HRM.md
+#       - HRM\Unit-7 Contemporary issues and trends in HRM\7.5 Introduction to International HRM.md
+#   - IR :  
+#     - Unit 2 International Organizations and The World Economy:
+#       - IR\Unit- 2 International Organizations and The World Economy\2.a International Organization.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.b United Nations Organizations.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.c European Union.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.d International Political Economy.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.e International Monetary Fund.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.f Unicef.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.g World Bank.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.h World Trade Organization.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.i Human Rights Watch.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.j Amnesty Internation.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.j World wide fund.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.k World Economic Forum.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.l world health organisation.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.m nato.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.n Globalisation.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.o Care.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.p Greenpeace.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.q International Red Cross.md
+#       - IR\Unit- 2 International Organizations and The World Economy\2.r Oxfam internation.md
+#   - MM :
+#     - Unit 1 Introduction to Marketing Fundamentals:
+#       - MM\Unit-1 Introduction to Marketing Fundamentals\1.1 Meaning Definition marketing.md
+#       - MM\Unit-1 Introduction to Marketing Fundamentals\1.2 scope of marketing.md
+#       - MM\Unit-1 Introduction to Marketing Fundamentals\1.3 core marketing concepts.md
+#       - MM\Unit-1 Introduction to Marketing Fundamentals\1.4 Delivering and Creating Customer Value.md
+#       - MM\Unit-1 Introduction to Marketing Fundamentals\1.5 Marketing Ecosystem.md
+#     - Unit 2 Connecting with Customers:  
+#       - MM\Unit-2 Connecting with Customers\2.1 Consumer behavior model.md
+#       - MM\Unit-2 Connecting with Customers\2.2 Factors affecting consumer Behavior.md
+#       - MM\Unit-2 Connecting with Customers\2.3 Types of Buying Decision Behavior.md
+#       - MM\Unit-2 Connecting with Customers\2.4 The Buyer Decision Process.md
+#       - MM\Unit-2 Connecting with Customers\2.5 Business Buyer Behavior.md
+#       - MM\Unit-2 Connecting with Customers\2.6 The Business Buyer Decision Process.md
+#       - MM\Unit-2 Connecting with Customers\2.7 Institutional and Government Market.md
+#       - MM\Unit-2 Connecting with Customers\2.8.a STP Model.md
+#       - MM\Unit-2 Connecting with Customers\2.8.b Segmentation.md
+#       - MM\Unit-2 Connecting with Customers\2.9 Targeting.md
+#       - MM\Unit-2 Connecting with Customers\2.9.a Positioning.md
+#     - Unit 3 Product Decision:  
+#       - MM\Unit-3 Product Decision\3.1 Product Levels.md
+#       - MM\Unit-3 Product Decision\3.2 Product Characteristics and Classifications.md
+#       - MM\Unit-3 Product Decision\3.3 New product development stages.md
+#       - MM\Unit-3 Product Decision\3.4 categories of new product.md
+#       - MM\Unit-3 Product Decision\3.5 reasons for launching new products and its failure.md
+#       - MM\Unit-3 Product Decision\3.6 Product life cycle strategies and its extension.md
+#       - MM\Unit-3 Product Decision\3.7 Ansoff’s Matrix.md
+#       - MM\Unit-3 Product Decision\3.8 meaning of services.md
+#       - MM\Unit-3 Product Decision\3.9 unique characteristics of services.md
+#       - MM\Unit-3 Product Decision\3.9.a 7Ps of service marketing.md
+#       - MM\Unit-3 Product Decision\3.9.b Service delivery process.md
+#     - Unit 4 Pricing:  
+#       - MM\Unit-4 Pricing\4.1 Pricing consideration and approaches.md
+#       - MM\Unit-4 Pricing\4.2 Types of pricing.md
+#       - MM\Unit-4 Pricing\4.3 Methods.md
+#       - MM\Unit-4 Pricing\4.4 Pricing strategies.md
+#       - MM\Unit-4 Pricing\4.5 new product pricing strategies.md
+#       - MM\Unit-4 Pricing\4.6 Product mix pricing strategies.md
+#       - MM\Unit-4 Pricing\4.7 Price adjustment strategies.md
+#     - Unit 5 Distribution Channels: 
+#       - MM\Unit-5 Distribution Channels\5.1 Marketing channels.md
+#       - MM\Unit-5 Distribution Channels\5.10 channel conflict.md
+#       - MM\Unit-5 Distribution Channels\5.2 structure.md
+#       - MM\Unit-5 Distribution Channels\5.3 types.md
+#       - MM\Unit-5 Distribution Channels\5.4 criteria of selecting a channel.md
+#       - MM\Unit-5 Distribution Channels\5.5 wholesaling.md
+#       - MM\Unit-5 Distribution Channels\5.6 retailing.md
+#       - MM\Unit-5 Distribution Channels\5.7 physical distribution.md
+#       - MM\Unit-5 Distribution Channels\5.8 Channel Management.md
+#       - MM\Unit-5 Distribution Channels\5.9 channel design.md
+#     - Unit 6 Promotion:  
+#       - MM\Unit-6 Promotion\6.1 Significance of Integrated Marketing Communication.md
+#       - MM\Unit-6 Promotion\6.10 Other promotional strategies.md
+#       - MM\Unit-6 Promotion\6.2 Advertising.md
+#       - MM\Unit-6 Promotion\6.3 sales promotion.md
+#       - MM\Unit-6 Promotion\6.4 personal selling.md
+#       - MM\Unit-6 Promotion\6.5 sales management.md
+#       - MM\Unit-6 Promotion\6.6 Public and customer relations.md
+#       - MM\Unit-6 Promotion\6.7 direct marketing.md
+#       - MM\Unit-6 Promotion\6.8 online marketing.md
+#       - MM\Unit-6 Promotion\6.9 multilevel marketing.md
+#     - Unit 7 Socially Responsible Marketing:  
+#       - MM\Unit-7 Socially Responsible Marketing\7.1 Sustainable Marketing.md
+#       - MM\Unit-7 Socially Responsible Marketing\7.2 Social Criticisms of Marketing.md
+#       - MM\Unit-7 Socially Responsible Marketing\7.3 MarketingΓÇÖs Impact on Individual.md
+#       - MM\Unit-7 Socially Responsible Marketing\7.4 MarketingΓÇÖs Impact on Society as a Whole.md
+#       - MM\Unit-7 Socially Responsible Marketing\7.5 MarketingΓÇÖs Impact on Other Businesses.md
+#       - MM\Unit-7 Socially Responsible Marketing\7.6 Actions to Promote Sustainable Marketing.md
+#       - MM\Unit-7 Socially Responsible Marketing\7.7 Principles and Marketing Ethics.md
+#   - Other :
       
-    - Other\contact.md
-    - Other\contributors.md
-    - Other\join_us.md
+#     - Other\contact.md
+#     - Other\contributors.md
+#     - Other\join_us.md
