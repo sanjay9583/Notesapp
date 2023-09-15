@@ -1,7 +1,5 @@
 # Important Questions
 
-Here's the information presented in Markdown format for each of your questions:
-
 ??? Question
     ## 1. Objectives, Functions, and Achievements of UN
 
