@@ -41,4 +41,12 @@
 - [Unit-6 Promotion](MM/Unit-6%20Promotion/6.1%20Significance%20of%20Integrated%20Marketing%20Communication.md)
 - [Unit-7 Socially Responsible Marketing](MM/Unit-7%20Socially%20Responsible%20Marketing/7.1%20Sustainable%20Marketing.md)
 
+## IR
+
+- [Important Questions](IR/Important%20Questions.md)
+
+- [Unit -1 Introduction to International Relations](IR/Unit%20-1%20Introduction%20to%20International%20Relations/1.1%20Introduction%20to%20International%20Relations.md)
+
+- [Unit- 2 International Organizations and The World Economy](IR/Unit-%202%20International%20Organizations%20and%20The%20World%20Economy/2.a%20International%20Organization.md)
+
 <!-- Table of contents for other subjects -->
