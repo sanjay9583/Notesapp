@@ -1,5 +1,5 @@
 # Course Subjects
-
+<!-- 
 
 ## FM
 
@@ -47,6 +47,13 @@
 
 - [Unit -1 Introduction to International Relations](IR/Unit%20-1%20Introduction%20to%20International%20Relations/1.1%20Introduction%20to%20International%20Relations.md)
 
-- [Unit- 2 International Organizations and The World Economy](IR/Unit-%202%20International%20Organizations%20and%20The%20World%20Economy/2.a%20International%20Organization.md)
+- [Unit- 2 International Organizations and The World Economy](IR/Unit-%202%20International%20Organizations%20and%20The%20World%20Economy/2.a%20International%20Organization.md) -->
 
-<!-- Table of contents for other subjects -->
+
+## BBA Semester 3 Course Subjects
+
+| College Branch | Core 1 | Core 2 | Core 3 | Branch Specific 1| Branch Specific 2 | Branch Specific 3 | 
+|----------------|----------|---------| ------ | ------ | ------| ------ |
+| BBA Gen  | [FM](FM/Unit-1%20Introduction%20to%20Financial%20management/1.1%20Meaning%20of%20finance%20and%20financial%20management.md) | [HRM](HRM/Unit-1%20Introduction/1.1%20Concept%20of%20HRM.md) | [MM](MM/Unit-1%20Introduction%20to%20Marketing%20Fundamentals/1.1%20Meaning%20Definition%20marketing.md) | [IFS](FMS (IFS)\Unit-1 Introduction to Financial System\1.1 Introduction - Meaning.md) | | |
+| BBA Hons  | [FM](FM/Unit-1%20Introduction%20to%20Financial%20management/1.1%20Meaning%20of%20finance%20and%20financial%20management.md) | [HRM](HRM/Unit-1%20Introduction/1.1%20Concept%20of%20HRM.md) | [MM](MM/Unit-1%20Introduction%20to%20Marketing%20Fundamentals/1.1%20Meaning%20Definition%20marketing.md) | [IFS](FMS (IFS)\Unit-1 Introduction to Financial System\1.1 Introduction - Meaning.md) | | |
+| BBA FIB  | [FM](FM/Unit-1%20Introduction%20to%20Financial%20management/1.1%20Meaning%20of%20finance%20and%20financial%20management.md) | [HRM](HRM/Unit-1%20Introduction/1.1%20Concept%20of%20HRM.md) | [MM](MM/Unit-1%20Introduction%20to%20Marketing%20Fundamentals/1.1%20Meaning%20Definition%20marketing.md) | [FMS](FMS (IFS)\Unit-1 Introduction to Financial System\1.1 Introduction - Meaning.md) | [IR](IR/Unit%20-1%20Introduction%20to%20International%20Relations/1.1%20Introduction%20to%20International%20Relations.md) |[DF](DF/Unit-1/1.1%20Intro%20to%20Digital%20Currency.md) | 
