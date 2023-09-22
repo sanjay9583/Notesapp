@@ -10,3 +10,7 @@
 ## Marketing Partners
 - [B Vin Cyrus](https://www.linkedin.com/in/b-vin-cyrus-a40308238/)
 - [Lasya Tatavarthy](https://www.linkedin.com/in/lasya-tatavarthy-b05373289/)
+
+##  Review Partners
+
+- Geethika Bandlamudi
