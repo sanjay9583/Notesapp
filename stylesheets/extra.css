@@ -1,0 +1,47 @@
+.md-typeset h1 {
+    font-size: 25px;
+    font-weight: bold;
+    font-optical-sizing: 100px;
+}
+.md-typeset h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+.md-typeset p {
+    font-size: 16px;
+}
+.md-typeset li {
+    font-size: 16px;
+}
+
+/* Styles for web applications */
+@media screen and (min-width: 768px) {
+    .md-grid {
+        max-width: 95%; /* or 100%, if you want to stretch to full-width */
+      }
+  }  
+
+  /* make table little compact and small of each row */
+
+  .md-typeset_table table {
+    line-height: 0.5px;
+  }
+
+  /* add some styling to the table  and make it dark mode friendly feature*/
+
+  .md-typeset table {
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    width: 100%;
+  }
+
+  .md-typeset th, td {
+    text-align: left;
+    padding: 16px;
+  }
+
+  .md-typeset th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  /* end of table styling */
